@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 68,
+  "articles": [
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Samantha Subin",
+      "title": "Stock futures rise on Thursday morning - CNBC",
+      "description": "Stocks remain on track for a losing month, even after two days of gains.",
+      "url": "https://www.cnbc.com/2022/12/21/stock-market-futures-open-to-close-news.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107161879-NYSE-Trading-Floor-OB-20221206-CC-PRESS-3.jpg?v=1671663771&w=1920&h=1080",
+      "publishedAt": "2022-12-22T05:43:00Z",
+      "content": "Stock futures rose slightly in early trading on Thursday after better-than-feared earnings and strong consumer confidence data helped boost stocks for a second day.\r\nStock futures tied to the Dow Jon… [+1820 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Richard Lawler, Elizabeth Lopatto",
+      "title": "Sam Bankman-Fried's former friends pleaded guilty and are cooperating in the FTX fraud case - The Verge",
+      "description": "Caroline Ellison and Gary Wang, who served as executives at Sam Bankman-Fried’s fallen crypto firms Alameda Research and FTX, have pled guilty to federal fraud charges and are cooperating with prosecutors.",
+      "url": "https://www.theverge.com/2022/12/21/23521967/sam-bankman-fried-ftx-crypto-fraud-caroline-ellison-gary-wang",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/U3xFWOPrPJfGDQ7b1FURxuhYXe4=/0x0:3000x2134/1200x628/filters:focal(1500x1067:1501x1068)/cdn.vox-cdn.com/uploads/chorus_asset/file/24310240/1451153661.jpg",
+      "publishedAt": "2022-12-22T03:57:00Z",
+      "content": "Sam Bankman-Frieds former friends pleaded guilty and are cooperating in the FTX fraud case\r\nSam Bankman-Frieds former friends pleaded guilty and are cooperating in the FTX fraud case\r\n / Former FTX c… [+6765 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Sec.gov" },
+      "author": null,
+      "title": "SEC Charges Caroline Ellison and Gary Wang with Defrauding Investors in Crypto Asset Trading Platform FTX - SEC.gov",
+      "description": null,
+      "url": "https://www.sec.gov/news/press-release/2022-234",
+      "urlToImage": null,
+      "publishedAt": "2022-12-22T02:03:45Z",
+      "content": "Washington D.C., Dec. 21, 2022 —\r\n The Securities and Exchange Commission today charged Caroline Ellison, the former CEO of Alameda Research, and Zixiao (Gary) Wang, the former Chief Technology Offic… [+5534 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Kevin Stankiewicz",
+      "title": "Cramer says he likes these technology and real-estate stocks for 2023 - CNBC",
+      "description": "CNBC's Jim Cramer offered some of his favorite tech and real-estate stocks for 2023 on Wednesday's \"Mad Money.\"",
+      "url": "https://www.cnbc.com/2022/12/21/cramer-says-he-likes-these-technology-and-real-estate-stocks-for-2023.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106196179-1571762737792rts2rrde.jpg?v=1671669809&w=1920&h=1080",
+      "publishedAt": "2022-12-22T00:43:00Z",
+      "content": "Tech picks for 2023\r\nOracle's fiscal 2023 second-quarter earnings last week were \"magnificent,\" Cramer said. The stock sells for less than 17 times forward earnings. While enterprise software is hard… [+1991 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Ian King",
+      "title": "Micron to Cut 10% of Workforce as Demand for Computer Chips Slumps - Yahoo Finance",
+      "description": "(Bloomberg) -- Micron Technology Inc., the largest US maker of memory chips, said the worst industry glut in more than a decade will make it difficult to...",
+      "url": "https://finance.yahoo.com/news/micron-cut-10-workforce-demand-212137462.html",
+      "urlToImage": "https://media.zenfs.com/en/bloomberg_technology_68/3c469a562ae8663c00eb19ade56a8b6c",
+      "publishedAt": "2022-12-22T00:07:00Z",
+      "content": "(Bloomberg) -- Micron Technology Inc., the largest US maker of memory chips, said the worst industry glut in more than a decade will make it difficult to return to profitability in 2023.\r\nMost Read f… [+4182 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Matt McFarland",
+      "title": "Tesla 'full self-driving' triggered an eight-car crash, a driver tells police - CNN",
+      "description": "A driver told authorities that their Tesla's \"full-self-driving\" software braked unexpectedly and triggered an eight-car pileup in the San Francisco Bay Area last month that led to nine people being treated for minor injuries including one juvenile who was ho…",
+      "url": "https://www.cnn.com/2022/12/21/business/tesla-fsd-8-car-crash/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220629161230-tesla-vehicle-autopilot-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-21T22:41:00Z",
+      "content": "A driver told authorities that their Teslas full-self-driving software braked unexpectedly and triggered an eight-car pileup in the San Francisco Bay Area last month that led to nine people being tre… [+2569 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Verifythis.com" },
+      "author": "Erin Jones",
+      "title": "Yes, warming up your car before driving in cold weather can damage the engine - VERIFYThis.com",
+      "description": "Letting your car idle when it’s cold outside can shorten the life of your engine.",
+      "url": "https://www.verifythis.com/article/news/verify/weather-verify/warming-up-your-car-in-cold-weather-winter-can-cause-engine-damage-fact-check/536-8bf406d7-194c-4ca0-a06d-d1d56006e5d9",
+      "urlToImage": "https://media.tegna-media.com/assets/VERIFY/images/b63620da-951c-4b07-a6e7-b291a503eb40/b63620da-951c-4b07-a6e7-b291a503eb40_1140x641.jpg",
+      "publishedAt": "2022-12-21T22:31:00Z",
+      "content": "Winter is officially here and winter storms are hitting many parts of the United States.\r\nIn frigid temperatures, its a common practice for many drivers to let their cars warm up for a few minutes be… [+3609 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Nicole Friedman",
+      "title": "U.S. Home Sales Post Record 10th Straight Month of Declines - The Wall Street Journal",
+      "description": "November existing-home sales fell 7.7% as Fed keeps raising interest rates",
+      "url": "https://www.wsj.com/articles/u-s-home-sales-dropped-7-7-in-november-a-record-10th-straight-month-of-declines-11671635711",
+      "urlToImage": "https://images.wsj.net/im-689586/social",
+      "publishedAt": "2022-12-21T22:17:00Z",
+      "content": "U.S. existing-home sales slid in November for a 10th straight month, extending a record streak of declines as \r\nhigh mortgage rates and home prices pushed many buyers out of the market.Sales of previ… [+336 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Clare Duffy",
+      "title": "Twitter hit by legal complaints from 100 former employees following Musk's layoffs - CNN",
+      "description": "Twitter has been hit with allegations from 100 former employees affected by mass layoffs at the company, including that it unfairly laid off more women than men, terminated employees who were actively on medical or parental leave and reneged on promises relat…",
+      "url": "https://www.cnn.com/2022/12/21/tech/twitter-employees-arbitration/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221028090547-twitter-future-uncertainty.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-21T22:12:00Z",
+      "content": "Twitter has been hit with allegations from 100 former employees affected by mass layoffs at the company, including that it unfairly laid off more women than men, terminated employees who were activel… [+2725 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Slate Magazine" },
+      "author": "Zamaan Qureshi",
+      "title": "Mark Zuckerberg knew about Cambridge Analytica earlier than he said. Here's how I got the document that showed it. - Slate",
+      "description": "He said he was blindsided by Cambridge Analytica’s abuse of data. He wasn’t.",
+      "url": "https://slate.com/technology/2022/12/mark-zuckerberg-facebook-cambridge-analytica-sec-deposition.html",
+      "urlToImage": "https://compote.slate.com/images/ef24d8f5-4c8d-4c82-9dcf-6a189c78959b.jpeg?crop=7371%2C4914%2Cx0%2Cy1&width=1560",
+      "publishedAt": "2022-12-21T21:45:00Z",
+      "content": "On Wednesday, Dec. 7, I was cramming for a psychology exam in my college library when I got an email from the Freedom of Information Act officer at the Securities and Exchange Commission. Attached wa… [+8989 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Fox Business" },
+      "author": "Aislinn Murphy",
+      "title": "Discussions with lenders about potential purchase of some Cineworld theaters 'are not continuing,' AMC says - Fox Business",
+      "description": "AMC Entertainment said in a filing discussions it had with Cineworld lenders about potentially buying some of the rival chain’s theaters \"are not continuing.\"",
+      "url": "https://www.foxbusiness.com/markets/discussions-lenders-potential-purchase-some-cineworld-theaters-not-continuing-amc-says",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/01/0/0/AP20291592090212.jpg?ve=1&tl=1",
+      "publishedAt": "2022-12-21T21:30:46Z",
+      "content": "AMC Entertainment said Wednesday in a regulatory filing that discussions it had with certain Cineworld lenders about potentially buying some of the rival movie chain’s theaters \"are not continuing\" a… [+2754 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WGHP FOX 8 Greensboro" },
+      "author": "Brayden Stamps, Michael Bartiromo, Nexstar Media Wire",
+      "title": "North Carolina Chick-fil-A owner fined after some workers paid in sandwiches, teens assigned ‘hazardous’ jobs - WGHP FOX8 Greensboro",
+      "description": "HENDERSONVILLE, N.C. (WGHP) — The owner of a North Carolina Chick-Fil-A has been fined by the Department of Labor for child labor and minimum wage standards violations, Fox News reports. The restaurant first came under fire in July 2022, when a Facebook post …",
+      "url": "https://myfox8.com/news/north-carolina/north-carolina-chick-fil-a-owner-fined-after-some-workers-paid-in-sandwiches-teens-assigned-hazardous-jobs/",
+      "urlToImage": "https://myfox8.com/wp-content/uploads/sites/17/2022/07/ChickFilAGettyImages-149447981-2.jpg?w=1280",
+      "publishedAt": "2022-12-21T21:24:21Z",
+      "content": "HENDERSONVILLE, N.C. (WGHP) The owner of a North Carolina Chick-Fil-A has been fined by the Department of Labor for child labor and minimum wage standards violations, Fox News reports.\r\nThe restauran… [+1878 chars]"
+    },
+    {
+      "source": { "id": "financial-times", "name": "Financial Times" },
+      "author": "Harriet Agnew",
+      "title": "Cathie Wood's Ark sheds almost $50bn in assets since 2021 peak - Financial Times",
+      "description": "Flagship innovation strategy represents ‘canary in the coal mine’ for regime shift in markets, says Morningstar",
+      "url": "https://www.ft.com/content/be321ad8-295e-4e29-9760-6a150ee4d3e0",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7b8d83b1-e031-4eb6-b9fb-f90ad2b9e2cf.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2022-12-21T21:00:19Z",
+      "content": "Cathie Woods Ark Investment Management has lost almost $50bn in assets from its stable of exchange traded funds since its 2021 peak, highlighting the scale of this years losses in speculative tech st… [+5075 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Jonel Aleccia",
+      "title": "New label law has unintended effect: Sesame in more foods - The Associated Press - en Español",
+      "description": "A new federal law requiring that sesame be listed as an allergen on food labels is having unintended consequences — increasing the number of products with the ingredient. Food industry experts said the requirements are so stringent that many manufacturers, es…",
+      "url": "https://apnews.com/article/sesame-allergies-label-b28f8eb3dc846f2a19d87b03440848f1",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/83959c1006d544f0bd74fb0181e3d258/3000.webp",
+      "publishedAt": "2022-12-21T20:50:19Z",
+      "content": "A new federal law requiring that sesame be listed as an allergen on food labels is having unintended consequences increasing the number of products with the ingredient.\r\nFood industry experts said th… [+5827 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MarketWatch" },
+      "author": "William Watts",
+      "title": "Possible Tesla bounce good for a trade, but not an investment, says technical analyst - MarketWatch",
+      "description": "Room for ‘reversion to mean’ even if shares eventually fall further, analyst says",
+      "url": "https://www.marketwatch.com/story/possible-tesla-bounce-good-for-a-trade-but-not-an-investment-says-technical-analyst-11671653864",
+      "urlToImage": "https://images.mktw.net/im-563865/social",
+      "publishedAt": "2022-12-21T20:17:00Z",
+      "content": "A potential bounce for beaten down Tesla Inc. shares could be worthwhile for short-term traders, but probably doesnt argue for a long-term investment, a widely followed technical analyst said in a We… [+2199 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Kitco NEWS" },
+      "author": "http://www.facebook.com/kitconews",
+      "title": "U.S. economy on thin ice: These are top recession bets for 2023 - Kitco NEWS",
+      "description": "Outlook 2023",
+      "url": "https://www.kitco.com/news/2022-12-21/U-S-economy-on-thin-ice-These-are-top-recession-bets-for-2023.html",
+      "urlToImage": "https://www.kitco.com/news/2022-12-21/images/Economic-Outlook-Article-min.jpg",
+      "publishedAt": "2022-12-21T20:10:00Z",
+      "content": "Welcome to Kitco News' 2023 outlook series. Uncertainty continues to dominate financial markets as central bank monetary policies push the global economy into a recession to cool down inflation. Stay… [+6373 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Oil prices rise over $2 on drawdown in U.S. crude stocks - Reuters",
+      "description": "Oil prices rose by more than $2 a barrel on Wednesday after data showed a larger-than-expected draw in U.S. crude stockpiles, but gains were capped by a snowstorm that is expected to hit U.S. travel.",
+      "url": "https://www.reuters.com/business/energy/oil-prices-up-us-crude-stocks-seen-falling-dollar-eases-2022-12-21/",
+      "urlToImage": "https://www.reuters.com/resizer/drX5mWjXoLs0EPQZsZ2VpnQ1_Dg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BWSF2FYHQVJRXJJK6GGRAGNQMY.jpg",
+      "publishedAt": "2022-12-21T19:58:00Z",
+      "content": "HOUSTON, Dec 21 (Reuters) - Oil prices rose by more than $2 a barrel on Wednesday after data showed a larger-than-expected draw in U.S. crude stockpiles, but gains were capped by a snowstorm that is … [+2453 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Jesse O’Neill",
+      "title": "Salary expectations for American workers hit new high: Fed survey - New York Post ",
+      "description": "The lowest average wage workers are willing to accept for a new job jumped $794 from July to November — to $73,667, according to a New York Federal Reserve Bank survey on inflation and labor …",
+      "url": "https://nypost.com/2022/12/21/salary-expectations-for-american-workers-hits-new-high-survey/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/12/lowest-average-wage-workers-acceptance-comp.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2022-12-21T19:55:00Z",
+      "content": "American job hunters are expecting more money and don’t want to take a new position for less than nearly $74,000 — a new record high.\r\nThe lowest average wage that workers are willing to accept for a… [+1939 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Retirement plan changes in the omnibus spending bill - CNBC Television",
+      "description": "CNBC's Ylan Mui joins 'The Exchange' to discuss the changes to retirement plans that could come with the passage of the Secure Act 2.0, the benefit of integr...",
+      "url": "https://www.youtube.com/watch?v=oJj8zAyc3N4",
+      "urlToImage": "https://i.ytimg.com/vi/oJj8zAyc3N4/maxresdefault.jpg",
+      "publishedAt": "2022-12-21T19:44:10Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Reuters",
+      "title": "FCC proposes record $300M fine for 'auto warranty' robocalls - New York Post ",
+      "description": "The FCC said the scheme was run by two California men, Roy Cox, Jr. and Michael Aaron Jones via their Sumco Panama company and other entities.",
+      "url": "https://nypost.com/2022/12/21/fcc-proposes-record-300m-fine-for-auto-warranty-robocalls/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/12/fcc-robocalls.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2022-12-21T19:35:00Z",
+      "content": "The government wants two California men to pay for those annoying robocalls about car warranties.\r\nThe Federal Communications Commission on Wednesday proposed a $300 million fine against the auto war… [+1682 chars]"
+    }
+  ]
+}
